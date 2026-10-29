@@ -1,0 +1,73 @@
+{
+  "sleep": {
+    "url": "https://media.githubusercontent.com/media/devtlv/Datasets-DA-Bootcamp-2-/refs/heads/main/Week%204%20-%20Data%20Understanding/W4D2%20-%20Data%20U.%20and%20pre-processing/How%20Much%20Sleep%20Do%20Americans.zip",
+    "archive_sha256": "7a647373d049de7cd91959f57e51bb12d95fcec4ae22e408fcd1be4d2db35950",
+    "files": {
+      "How Much Sleep Do Americans/Time Americans Spend Sleeping.csv": "126ed4da07b7590b47ef0ce9bf1e123eb6cba200311e53ce40b1287ef374bf17"
+    }
+  },
+  "mental_health": {
+    "url": "https://media.githubusercontent.com/media/devtlv/Datasets-DA-Bootcamp-2-/refs/heads/main/Week%204%20-%20Data%20Understanding/W4D2%20-%20Data%20U.%20and%20pre-processing/Global%20Trends%20in%20Mental%20Health%20Disorder.zip",
+    "archive_sha256": "49d389194a5c8938b50514bfedc6539b7350067a8633dd13d00f54ff1e3ec3e6",
+    "files": {
+      "Global Trends in Mental Health Disorder/Mental health Depression disorder Data.csv": "30b9a2cdf41594df93d12f717d1ffc21b9bed33058d4fec4bcee1aae7f046053"
+    }
+  },
+  "credit": {
+    "url": "https://media.githubusercontent.com/media/devtlv/Datasets-DA-Bootcamp-2-/refs/heads/main/Week%204%20-%20Data%20Understanding/W4D2%20-%20Data%20U.%20and%20pre-processing/Credit%20Card%20Approvals%20%28Clean%20Data%29.zip",
+    "archive_sha256": "71e75e8902550291d93f64a5de6051cfdb3f3892379e238aafa5f657287490db",
+    "files": {
+      "Credit Card Approvals (Clean Data)/clean_dataset.csv": "cfd4214f4eaa79723bc9f98ddf9ce93dde45c13f0bf9ef684b783b4d363b5cb0",
+      "Credit Card Approvals (Clean Data)/crx.csv": "fff49bc186cbddb3ace7371d40d9fbbb3af4f126019c13ff3f562249b1454f4d"
+    }
+  },
+  "iris": {
+    "url": "https://media.githubusercontent.com/media/devtlv/Datasets-DA-Bootcamp-2-/refs/heads/main/Week%204%20-%20Data%20Understanding/W4D2%20-%20Data%20U.%20and%20pre-processing/Iris%20Dataset.zip",
+    "archive_sha256": "b6b0cc99c92fc28d4cb3abf0233c807d31f1c6eb904fd96fffd0e1fb3c7dae37",
+    "files": {
+      "Iris Dataset/Iris.csv": "600ac44f23c2e6e0ae37daac8ceb2baba4df963efa580eb31b3b576b28e34c55"
+    }
+  },
+  "titanic": {
+    "url": "https://media.githubusercontent.com/media/devtlv/Datasets-DA-Bootcamp-2-/refs/heads/main/Week%204%20-%20Data%20Understanding/W4D3%20-%20Importing%20Data%2C%20Exporting%20D/train.zip",
+    "archive_sha256": "238cddd94045e3c9bccb2ba46f162d67d62622a246fe4145839ff237738d1166",
+    "files": {
+      "train.csv": "7d118fef8b6ccf7f81111877bc388536f7b1e498a655e3d649d19aaa010e9f6f"
+    }
+  },
+  "posts": {
+    "url": "https://media.githubusercontent.com/media/devtlv/Datasets-DA-Bootcamp-2-/refs/heads/main/Week%204%20-%20Data%20Understanding/W4D3%20-%20Importing%20Data%2C%20Exporting%20D/posts.zip",
+    "archive_sha256": "07b53ab567a2acbdef9e21d49fc3d6f43a017586f3b00e2bae3e1f4ed03bcd82",
+    "files": {
+      "posts.json": "35d44a4bde6d5614da88808ee6bd5a10a0414cf13c17645dbc3019a51064e87d"
+    }
+  },
+  "salaries": {
+    "url": "https://media.githubusercontent.com/media/devtlv/Datasets-DA-Bootcamp-2-/refs/heads/main/Week%204%20-%20Data%20Understanding/W4D4%20-%20Data%20Preprocessing%20%26%20T/Data%20Science%20Job%20Salary%20dataset.zip",
+    "archive_sha256": "3f2577840b6a31f53240b865a14107d0b3bbcc342c3677654c7b3c0eafa2f8de",
+    "files": {
+      "Data Science Job Salary dataset/datascience_salaries.csv": "3d37154f57ac35daaec7252fb50d98796329731dda2376e2647c20f1ded5ca68"
+    }
+  },
+  "crashes": {
+    "url": "https://media.githubusercontent.com/media/devtlv/Datasets-DA-Bootcamp-2-/refs/heads/main/W4%20Gen%20AI/W4D3/Airplane%20Crashes%20and%20Fatalities%20upto%202023.zip",
+    "archive_sha256": "0927df0e4048f1ad30a816343fd590eb348a9a0addeeee6d6f3de8f979324788",
+    "files": {
+      "Airplane_Crashes_and_Fatalities_Since_1908_t0_2023.csv": "b2994764f95644daa3784aa55b739209f54f061b320763e35f9a4c1caafe33c9"
+    }
+  },
+  "student": {
+    "url": "https://media.githubusercontent.com/media/devtlv/Datasets-GEN-AI-Bootcamp/refs/heads/main/Week%203/W3D1%20-%20Data%20Visualization/Student%20Mental%20health.zip",
+    "archive_sha256": "db2cea5c627c0422f8ac91e17b1b1f3c8d7ba795c24bacd214790b8bcc368820",
+    "files": {
+      "Student Mental health.csv": "c0d1300dd5225b426f91ee75c81e5068efdadf528416628994a5a6e013063f0a"
+    }
+  },
+  "superstore": {
+    "url": "https://www.kaggle.com/api/v1/datasets/download/vivek468/superstore-dataset-final",
+    "archive_sha256": "574f496defdabce0f4cbe717c4af39af8e555e06b24a8ceb6f418632f48e7d32",
+    "files": {
+      "Sample - Superstore.csv": "58fb59c63089e564d835e4aabe19d371757de1137a5bf1888243ae386c4b7a97"
+    }
+  }
+}

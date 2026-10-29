@@ -1,0 +1,9 @@
+salary_currency,experience_level,count,mean,median
+EUR,Mid,2,54000.0,54000.0
+EUR,Senior,7,45285.71,36000.0
+GBP,Mid,4,48750.0,45000.0
+GBP,Senior,1,57000.0,57000.0
+USD,Entry,126,36111.11,30000.0
+USD,Executive,13,76076.92,46000.0
+USD,Mid,299,51812.71,51000.0
+USD,Senior,719,75403.34,68000.0

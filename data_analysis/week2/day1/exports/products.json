@@ -1,0 +1,17 @@
+[
+  {
+    "product":"Notebook",
+    "quantity":3,
+    "price":4.5
+  },
+  {
+    "product":"Pen",
+    "quantity":10,
+    "price":1.2
+  },
+  {
+    "product":"Folder",
+    "quantity":2,
+    "price":2.0
+  }
+]
